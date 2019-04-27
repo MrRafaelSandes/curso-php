@@ -6,4 +6,6 @@
 
 echo "Meu primerio código PHP! Olá mundo."
 
+echo "Mais uma linha para teste"
+  
 ?>
