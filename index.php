@@ -4,6 +4,6 @@
  * Este é meu primeiro código php
  */
 
-echo "Meu primerio código PHP! Hello World."
+echo "Meu primerio código PHP! Olá mundo."
 
 ?>
